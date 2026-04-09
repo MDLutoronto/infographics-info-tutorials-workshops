@@ -157,5 +157,3 @@ Table of Contents
 	+ [Undrew](https://undraw.co/)
 	+ [Unsplash](https://unsplash.com/)
 	+ [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-
-Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization) | Tools: [Piktochart](https://mdl.library.utoronto.ca/tools/piktochart-0)
