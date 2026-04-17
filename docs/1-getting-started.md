@@ -1,8 +1,8 @@
 ---
-title: 
+title: Getting started
 parent: "Infographics: Information, Tutorials, and Workshops"
 layout: default
-nav_order: 
+nav_order: 1
 ---
 
 ## Getting started

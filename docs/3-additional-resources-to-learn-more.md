@@ -1,5 +1,5 @@
 ---
-title: 
+title: Additional Resources to Learn More
 parent: "Infographics: Information, Tutorials, and Workshops"
 layout: default
 nav_order: 3
@@ -7,13 +7,13 @@ nav_order: 3
 
 ### Additional Resources to Learn More
 
-	+ [Designing your Infographic](#designing-your-infographic)
-	+ [Map & Data Library Data Visualization Resources](#map-data-library-data-visualization-resources)
-	+ [The Power of Storytelling with Visuals](#the-power-of-storytelling-with-visuals)
-	+ [Examples, Layout, Fonts, and Colours](#examples-layout-fonts-and-colours)
-	+ [Psychology and Accessibility](#psychology-and-accessibility)
-	+ [Infographic Creation Tools](#infographic-creation-tools)
-	+ [Icons and Images](#icons-and-images)
++ [Designing your Infographic](#designing-your-infographic)
++ [Map & Data Library Data Visualization Resources](#map-data-library-data-visualization-resources)
++ [The Power of Storytelling with Visuals](#the-power-of-storytelling-with-visuals)
++ [Examples, Layout, Fonts, and Colours](#examples-layout-fonts-and-colours)
++ [Psychology and Accessibility](#psychology-and-accessibility)
++ [Infographic Creation Tools](#infographic-creation-tools)
++ [Icons and Images](#icons-and-images)
 
 #### Designing your Infographic
 {: #designing-your-infographic}

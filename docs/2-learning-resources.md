@@ -1,5 +1,5 @@
 ---
-title: 
+title: Learning resources
 parent: "Infographics: Information, Tutorials, and Workshops"
 layout: default
 nav_order: 2
