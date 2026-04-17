@@ -1,30 +1,12 @@
 ---
-title: "Infographics: Information, Tutorials, and Workshops"
-layout: "home"
-description: "Infographics are a type of data visualization. They are usually a mixture of text and images, but they are graphic heavy, often only visualize a small amount of data, and have specific goals. Those goals are normally to inform or persuade through storytelling. They are often shared on websites and social media for marketing purposes, but they are becoming more popular in a variety of situations to convey your data and message to your audience in a more unique and appealing way."
-staff:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
-maintainer:
- - name: Kelly Schultz
-   link: https://library.utoronto.ca/staff/kelly-schultz
-created_date: 2022-05-09
-permalink: "/"  #! Remove this if not the homepage
+title: 
+parent: "Infographics: Information, Tutorials, and Workshops"
+layout: default
+nav_order: 3
 ---
 
-# Infographics: Information, Tutorials, and Workshops
+### Additional Resources to Learn More
 
-Infographics are a type of data visualization. They are usually a mixture of text and images, but they are graphic heavy, often only visualize a small amount of data, and have specific goals. Those goals are normally to inform or persuade through storytelling. They are often shared on websites and social media for marketing purposes, but they are becoming more popular in a variety of situations to convey your data and message to your audience in a more unique and appealing way.
-
-Table of Contents
------------------
-
-* [Getting Started](#getting-started)
-* [Learning resources](#learning-resources)
-	+ [Online Courses](#online-courses)
-	+ [Workshops](#workshops)
-	+ [Tutorials & Other Guides](#tutorials-other-guides)
-* [Additional Resources to Learn More](#additional-resources-to-learn-more)
 	+ [Designing your Infographic](#designing-your-infographic)
 	+ [Map & Data Library Data Visualization Resources](#map-data-library-data-visualization-resources)
 	+ [The Power of Storytelling with Visuals](#the-power-of-storytelling-with-visuals)
@@ -32,40 +14,6 @@ Table of Contents
 	+ [Psychology and Accessibility](#psychology-and-accessibility)
 	+ [Infographic Creation Tools](#infographic-creation-tools)
 	+ [Icons and Images](#icons-and-images)
-
-## Getting started
-{: #getting-started}
-
-* Please visit our [list of online and desktop applications](https://mdl.library.utoronto.ca/dataviz/tools-tutorials#infographictools) that can be used to create infographics
-
-## Learning resources
-{: #learning-resources}
-
-### Online courses
-{: #online-courses}
-
-* [Introduction to Infographics](https://q.utoronto.ca/enroll/JXN4XL), an online, self-paced course administered through Quercus
-* [Data Visualization - An Introduction: Theory and Critique](https://q.utoronto.ca/enroll/DC8HHW), an online, self-paced course administered through Quercus
-
-### Workshops
-{: #workshops}
-
-#### [Introduction to Infographics: Health Critique Example](https://play.library.utoronto.ca/watch/944b9a6dbee66a58ad688ab75a16c103)
-
-#### [https://play.library.utoronto.ca/embed/944b9a6dbee66a58ad688ab75a16c103](https://play.library.utoronto.ca/embed/944b9a6dbee66a58ad688ab75a16c103)
-
-#### [Introduction to Infographics: Social Science Critique Example](https://play.library.utoronto.ca/watch/77ac1a241218bc45a11815f493d84249)
-
-#### [https://play.library.utoronto.ca/embed/77ac1a241218bc45a11815f493d84249](https://play.library.utoronto.ca/embed/77ac1a241218bc45a11815f493d84249)
-
-### Tutorials & Other Guides
-{: #tutorials-other-guides}
-
-* [Introduction to Infographic Design and Using Piktochart](https://mdl.library.utoronto.ca/technology/tutorials/introduction-infographic-design-and-using-piktochart)
-* [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started)
-
-### Additional Resources to Learn More
-{: #additional-resources-to-learn-more}
 
 #### Designing your Infographic
 {: #designing-your-infographic}
