@@ -2,6 +2,13 @@
 title: Additional Resources to Learn More
 parent: "Infographics: Information, Tutorials, and Workshops"
 layout: default
+staff:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+maintainer:
+    - name: Kelly Schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz
+created_date: 2022-05-09
 nav_order: 3
 ---
 
@@ -33,7 +40,7 @@ nav_order: 3
 	+ [Specialty Visualization Areas section](https://mdl.library.utoronto.ca/dataviz/specialty-visualization-areas) (with map making tips)
 	+ [Research about visual variables and visual perception section](https://mdl.library.utoronto.ca/dataviz/workflow#elements) of the data viz design workflow page
 	+ [Data Viz Guide's Books, Blogs & More page](https://mdl.library.utoronto.ca/dataviz/books-blogs-and-more-0)
-* [Piktochart Tutorial](https://mdl.library.utoronto.ca/technology/tutorials/introduction-infographic-design-and-using-piktochart)
+* [Piktochart Tutorial](https://mdlutoronto.github.io/piktochart-infographic-design-intro/)
 * Online Data Visualization Courses:
 	+ [Theory & Critique](https://q.utoronto.ca/enroll/DC8HHW)
 	+ [Practice with Tableau](https://q.utoronto.ca/enroll/WTYPDT)
@@ -105,3 +112,5 @@ nav_order: 3
 	+ [Undrew](https://undraw.co/)
 	+ [Unsplash](https://unsplash.com/)
 	+ [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Piktochart](https://mdlutoronto.github.io/tutorials-search/?tool=Piktochart)
