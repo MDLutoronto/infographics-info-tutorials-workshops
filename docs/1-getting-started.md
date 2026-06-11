@@ -14,6 +14,6 @@ nav_order: 1
 
 ## Getting Started
 
-* Please visit our [list of online and desktop applications](https://mdl.library.utoronto.ca/dataviz/tools-tutorials#infographictools) that can be used to create infographics
+Please visit our [list of online and desktop applications](https://mdl.library.utoronto.ca/dataviz/tools-tutorials#infographictools) that can be used to create infographics
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Piktochart](https://mdlutoronto.github.io/tutorials-search/?tool=Piktochart)

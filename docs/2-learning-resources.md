@@ -21,11 +21,11 @@ nav_order: 2
 
 ### Workshops
 
-#### [Introduction to Infographics: Health Critique Example](https://play.library.utoronto.ca/watch/944b9a6dbee66a58ad688ab75a16c103)    
+* [Introduction to Infographics: Health Critique Example](https://play.library.utoronto.ca/watch/944b9a6dbee66a58ad688ab75a16c103)    
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://play.library.utoronto.ca/embed/944b9a6dbee66a58ad688ab75a16c103" width="560">iframe not supported</iframe>
 
-#### [Introduction to Infographics: Social Science Critique Example](https://play.library.utoronto.ca/watch/77ac1a241218bc45a11815f493d84249)
+* [Introduction to Infographics: Social Science Critique Example](https://play.library.utoronto.ca/watch/77ac1a241218bc45a11815f493d84249)
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://play.library.utoronto.ca/embed/77ac1a241218bc45a11815f493d84249" width="560">iframe not supported</iframe>
 

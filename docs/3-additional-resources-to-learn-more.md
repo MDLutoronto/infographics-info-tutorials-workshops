@@ -12,7 +12,7 @@ created_date: 2022-05-09
 nav_order: 3
 ---
 
-### Additional Resources to Learn More
+### Additional Resources to Learn More - Table of Contents
 
 + [Designing your Infographic](#designing-your-infographic)
 + [Map & Data Library Data Visualization Resources](#map-data-library-data-visualization-resources)
@@ -22,7 +22,9 @@ nav_order: 3
 + [Infographic Creation Tools](#infographic-creation-tools)
 + [Icons and Images](#icons-and-images)
 
-#### Designing your Infographic
+***
+
+**Designing your Infographic**
 {: #designing-your-infographic}
 
 * University of North Carolina Chapel Hill [Infographic Planning Worksheet](https://guides.lib.unc.edu/ld.php?content_id=33197056)
@@ -32,7 +34,7 @@ nav_order: 3
 	+ [How Designers Do It: 15 Easy Steps to Design an Infographic from Scratch](https://www.canva.com/learn/create-infographics/) (Canva)
 	+ [Visual Abstracts](https://www.surgeryredesign.com/resources)
 
-#### Map & Data Library Data Visualization Resources
+**Map & Data Library Data Visualization Resources**
 {: #map-data-library-data-visualization-resources}
 
 * [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started)
@@ -45,7 +47,7 @@ nav_order: 3
 	+ [Theory & Critique](https://q.utoronto.ca/enroll/DC8HHW)
 	+ [Practice with Tableau](https://q.utoronto.ca/enroll/WTYPDT)
 
-#### The Power of Storytelling with Visuals
+**The Power of Storytelling with Visuals**
 {: #the-power-of-storytelling-with-visuals}
 
 * Specific resources supporting the ideas mentioned on why visualization and storytelling are so powerful:
@@ -54,7 +56,7 @@ nav_order: 3
 	+ [Useful Fictions: Evolution, Anxiety, and the Origins of Literature](https://librarysearch.library.utoronto.ca/permalink/01UTORONTO_INST/14bjeso/alma991105911552606196) by Michael Austin [PRINT BOOK]
 	+ [Data Visualization: Storytelling](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdata-visualization-storytelling%3Ftrk%3Dshare_ent_url&account=76812730) [LinkedIn Learning Course] (Toronto Public Library, or some other public libraries, account required for access)
 
-#### Examples, Layout, Fonts, and Colours
+**Examples, Layout, Fonts, and Colours**
 {: #examples-layout-fonts-and-colours}
 
 * Infographic examples [PRINT BOOKS]:
@@ -67,12 +69,12 @@ nav_order: 3
 	+ [How to Choose Fonts](https://venngage.com/blog/how-to-choose-fonts/) (with sample font pairings)
 	+ [Modular Scale](http://www.modularscale.com/?12&pt&1.5) (for selecting font sizes)
 * Colour palettes:
-	+ [Adobe Color CC](https://color.adobe.com/explore/most-popular/?time=all)
+	+ [Adobe Color](https://color.adobe.com/explore)
 	+ [Color Brewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
 	+ [COLOURlovers](http://www.colourlovers.com/)
 	+ [Coolors](http://coolors.co/)
 
-#### Psychology and Accessibility
+**Psychology and Accessibility**
 {: #psychology-and-accessibility}
 
 * Colour Psychology:
@@ -82,7 +84,7 @@ nav_order: 3
 	+ [Coblis: Color Blindness Simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/)
 	+ [Inclusive Design: How to Make Your Visuals Accessible to All](https://piktochart.com/blog/inclusive-design-make-visuals-accessible/)
 
-#### Infographic Creation Tools
+**Infographic Creation Tools**
 {: #infographic-creation-tools}
 
 * Desktop Tools
@@ -97,7 +99,7 @@ nav_order: 3
 	+ [Infogram](https://infogram.com/)
 	+ [Adobe Creative Cloud Express](https://www.adobe.com/express/)
 
-#### Icons and Images
+**Icons and Images**
 {: #icons-and-images}
 
 * Articles:
@@ -109,7 +111,7 @@ nav_order: 3
 	+ [The Noun Project](https://thenounproject.com/)
 	+ [Pexels](https://www.pexels.com/)
 	+ [Pixabay](https://pixabay.com/)
-	+ [Undrew](https://undraw.co/)
+	+ [Undraw](https://undraw.co/)
 	+ [Unsplash](https://unsplash.com/)
 	+ [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
