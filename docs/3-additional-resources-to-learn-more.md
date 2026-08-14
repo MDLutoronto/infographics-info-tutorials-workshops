@@ -37,11 +37,11 @@ nav_order: 3
 **Map & Data Library Data Visualization Resources**
 {: #map-data-library-data-visualization-resources}
 
-* [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started)
-	+ [Design Principles section](https://mdl.library.utoronto.ca/dataviz/design-principles) (with data viz tips)
-	+ [Specialty Visualization Areas section](https://mdl.library.utoronto.ca/dataviz/specialty-visualization-areas) (with map making tips)
-	+ [Research about visual variables and visual perception section](https://mdl.library.utoronto.ca/dataviz/workflow#elements) of the data viz design workflow page
-	+ [Data Viz Guide's Books, Blogs & More page](https://mdl.library.utoronto.ca/dataviz/books-blogs-and-more-0)
+* [Data Visualization Guide](https://guides.library.utoronto.ca/datavisualization)
+	+ [Design Principles section](https://guides.library.utoronto.ca/datavisualization/designprinciples) (with data viz tips)
+	+ [Specialty Visualization Areas section](https://guides.library.utoronto.ca/datavisualization/specialvizzes) (with map making tips)
+	+ [Research about visual variables and visual perception section](https://guides.library.utoronto.ca/datavisualization/workflow#elements) of the data viz design workflow page
+	+ [Data Viz Guide's Books, Blogs & More page](https://guides.library.utoronto.ca/datavisualization/booksandmore)
 * [Piktochart Tutorial](https://mdlutoronto.github.io/piktochart-infographic-design-intro/)
 * Online Data Visualization Courses:
 	+ [Theory & Critique](https://q.utoronto.ca/enroll/DC8HHW)

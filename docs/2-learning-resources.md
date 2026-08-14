@@ -32,6 +32,6 @@ nav_order: 2
 ### Tutorials & Other Guides
 
 * [Introduction to Infographic Design and Using Piktochart](https://mdlutoronto.github.io/piktochart-infographic-design-intro/)
-* [Data Visualization Guide](https://mdl.library.utoronto.ca/dataviz/getting-started)
+* [Data Visualization Guide](https://guides.library.utoronto.ca/datavisualization)
 
 **Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Piktochart](https://mdlutoronto.github.io/tutorials-search/?tool=Piktochart)
